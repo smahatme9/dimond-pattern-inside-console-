@@ -1,0 +1,1 @@
+# dimond-pattern-inside-console-
